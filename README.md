@@ -8,7 +8,7 @@ The application presents a computer store, a personalized welcome message, a cat
 
 ## Screenshot
 
-![Computer products catalog](devoir1/Screenshot%202026-10-31.png)
+![Computer products catalog](/Screenshot%202026-10-31.png)
 
 ## Features
 
